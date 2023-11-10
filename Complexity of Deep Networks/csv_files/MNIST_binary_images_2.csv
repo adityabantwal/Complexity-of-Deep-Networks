@@ -1,0 +1,4 @@
+,name,file_name,index,distance,image_num_vals,type_image,phi_val,post_act_phi_val
+0,MNIST_binary_images_2,simple_standard,0,15,54515,train,21.780508041381836,1.0
+1,MNIST_binary_images_2,simple_standard,1,9,3573,test,-9.92614459991455,4.88774967379868e-05
+2,MNIST_binary_images_2,simple_standard,2,2,3573,random,4.822988986968994,0.9920215010643005
